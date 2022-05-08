@@ -1,0 +1,116 @@
+/*************************************************
+** Welcome to first prototype for LockedMe.com **
+** Author - Gurender Singh                     **
+** Date - May 03, 2022                         **
+** Full Stack Development March 2022 batch     **
+** Copyright 2022 - All rights reserved!!      **
+*************************************************/
+/************************ Main Menu **********************/
+1 - Show Files and Folders in Ascending order.
+2 - Add/Delete/Search/Navigate back files in the directory.
+9 - Exit the application.
+
+Enter your choice:
+1
+Enter the Directory Name:
+E:\LockedMe
+There are 31 files in the folder.
+There are 4 sub-folders in the directory.
+=== Sorted List of Files/Folders names ===
+Apple.bmp
+blackBerry.txt
+Bonjovi
+Cost.txt
+dhokha.mp4
+ElePhant.txt
+IncomeTax_calculator.xlsx
+Indiana Jones
+InfiniX.txt
+jacket.txt
+Jam
+jazzy.txt
+Katie Perry.txt
+koka.txt
+Linkin park.txt
+Lion.txt
+Logical
+mOTorOla.txt
+oLA.txt
+OLX.txt
+OppO.txt
+PayTM.txt
+RaBBit.txt
+rocket.docx
+Samsung.txt
+Samxcdty.txt
+sunday.pptx
+tata.jpg
+tesla.pptx
+tiGer.txt
+ViVo.txt
+VoGO.txt
+Xiomi.txt
+zeta.rtf
+zoom.txt
+/************************ Main Menu **********************/
+1 - Show Files and Folders in Ascending order.
+2 - Add/Delete/Search/Navigate back files in the directory.
+9 - Exit the application.
+
+Enter your choice:
+2
+===== Option-2 Menu =====
+3 - Add new file.
+4 - Delete file.
+5 - Search file.
+6 - Return to Main Menu.
+
+Enter your choice:
+3
+Enter the name of the directory:
+E:\LockedMe
+
+Enter the name of the file to be created:mambo5.txt
+File created successfully!!
+===== Option-2 Menu =====
+3 - Add new file.
+4 - Delete file.
+5 - Search file.
+6 - Return to Main Menu.
+
+Enter your choice:
+4
+Enter the name of the directory:
+E:\LockedMe
+
+Enter the name of the file to be deleted:mambo5.txt
+File Deleted Successfully!!
+===== Option-2 Menu =====
+3 - Add new file.
+4 - Delete file.
+5 - Search file.
+6 - Return to Main Menu.
+
+Enter your choice:
+5
+Enter the name of the directory:E:\LockedMe
+
+Enter the name of the file to be searched:ViVo.txt
+ViVo.txt found successfully !!!.
+===== Option-2 Menu =====
+3 - Add new file.
+4 - Delete file.
+5 - Search file.
+6 - Return to Main Menu.
+
+Enter your choice:
+6
+/************************ Main Menu **********************/
+1 - Show Files and Folders in Ascending order.
+2 - Add/Delete/Search/Navigate back files in the directory.
+9 - Exit the application.
+
+Enter your choice:
+9
+Exiting the application....
+Application Closed,Bye!!
