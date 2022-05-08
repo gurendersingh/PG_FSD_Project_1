@@ -3,6 +3,11 @@ package domain.simplilearn.lockedme.com;
 import java.io.File;
 
 public class FileSortOperation {
+	/**
+	 * 
+	 * @param m_dirName - The User entered directory name from where the files need
+	 *                  to be fetched.
+	 */
 
 	public void SortFiles(String m_dirName) {
 

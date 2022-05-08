@@ -5,6 +5,14 @@ import java.io.IOException;
 
 public class FileOperation {
 
+	/**
+	 * 
+	 * @param p_dirname - The user entered directory name, where file needs to be
+	 *                  added.
+	 * @param p_fname   - The file name that has to be created, along with
+	 *                  extension.
+	 */
+
 	public void addfiletoDir(String p_dirname, String p_fname) {
 
 		File f = new File(p_dirname, p_fname);
@@ -20,6 +28,13 @@ public class FileOperation {
 		}
 	}
 
+	/**
+	 * 
+	 * @param p_dirname - The user entered directory name, where file needs to be
+	 *                  deleted.
+	 * @param p_fname   - The user entered file name that has to be deleted, along
+	 *                  with extension.
+	 */
 	public void deletefilefromDir(String p_dirname, String p_fname) {
 
 		File f = new File(p_dirname);
@@ -50,6 +65,12 @@ public class FileOperation {
 
 	}
 
+	/**
+	 * 
+	 * @param p_dirname - The user entered directory name, where file needs to be
+	 *                  deleted.
+	 * @param p_fname   - The file name that has to be searched in the directory.
+	 */
 	public void searchfileinDir(String p_dirname, String p_fname) {
 
 		File f = new File(p_dirname);

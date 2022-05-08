@@ -3,6 +3,10 @@ package domain.simplilearn.lockedme.com;
 import java.util.Scanner;
 
 public class LockedMeMainMenu {
+	/**
+	 * 
+	 * @param args - Main Method
+	 */
 
 	public static void main(String[] args) {
 
